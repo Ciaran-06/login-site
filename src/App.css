@@ -34,13 +34,14 @@ h3 {
 }
 
 .App-Login-Form input {
+  width: 100%;
   display: flex;
   flex: 1;
 }
 
 #App-Login-Submit {
   display: flex;
-  width: 10.8vw;
+  width: 103%;
   height: auto;
   align-items: center;
   justify-content: center;
